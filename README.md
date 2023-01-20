@@ -55,6 +55,6 @@ CI(Continuouse Integration)툴 이라고 표현합니다.
 젠킨스에서는 이러한 빌드 파이프라의 구성을 간단히 할 수 있으며, 스크립트를 통해서 매우 복잡한 제어까지도 가능합니다.
 
 # Reference
-[젠킨스 관련 사항](https://ict-nroo.tistory.com/31)
-[마크 다운 문서 1](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[마크 다운 문서 2](https://www.markdownguide.org/basic-syntax/)
+[젠킨스 관련 사항](https://ict-nroo.tistory.com/31)     
+[마크 다운 문서 1](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)       
+[마크 다운 문서 2](https://www.markdownguide.org/basic-syntax/)        
